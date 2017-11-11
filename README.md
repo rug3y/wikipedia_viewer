@@ -1,6 +1,8 @@
 # wikipedia_viewer
 
-> A Vue.js project
+> FFC Wikipedia Viewer project, built with Vue JS
+
+Demo: https://wiki-view-tw.surge.sh
 
 ## Build Setup
 
